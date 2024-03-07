@@ -1,5 +1,5 @@
 import { log } from "node:console";
-import { app } from "app";
+import { app } from "./app.js";
 
 
 // Start server
